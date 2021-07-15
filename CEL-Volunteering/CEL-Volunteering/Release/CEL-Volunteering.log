@@ -1,0 +1,11 @@
+﻿  CEL-Volunteering.cpp
+C:\Users\Legion\Desktop\CEL-Volunteering\CEL-Volunteering\CEL-Volunteering\T3.h(124,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Legion\Desktop\CEL-Volunteering\CEL-Volunteering\CEL-Volunteering\T3.h(125,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Legion\Desktop\CEL-Volunteering\CEL-Volunteering\CEL-Volunteering\T3.h(99,11): warning C4101: “sup”: 未引用的局部变量
+C:\Users\Legion\Desktop\CEL-Volunteering\CEL-Volunteering\CEL-Volunteering\T3.h(99,6): warning C4101: “inf”: 未引用的局部变量
+  正在生成代码
+  995 of 1007 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CEL-Volunteering.vcxproj -> C:\Users\Legion\Desktop\CEL-Volunteering\CEL-Volunteering\Release\CEL-Volunteering.exe
